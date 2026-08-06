@@ -1,0 +1,5 @@
+id,name,domain,status,reports,last_checked
+company-1,TechNova Labs,technova.example,Verified,0,2026-07-12
+company-2,CampusEdge AI,campusedge.example,Verified,1,2026-07-10
+company-3,FastCash Hiring,gmail recruiter,Blacklisted,142,2026-07-12
+company-4,WorkFromHome India Ltd,unknown,Blacklisted,88,2026-07-09
